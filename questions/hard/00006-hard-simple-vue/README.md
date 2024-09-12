@@ -213,6 +213,6 @@ declare function SimpleVue<TData, TComputed, TMethods>(options: {
 
 ## 参考链接
 
-- [ThisType<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#thistypetype)
+- [ThisType](https://www.typescriptlang.org/docs/handbook/utility-types.html#thistypetype)
 - [条件类型](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
 - [infer](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types)

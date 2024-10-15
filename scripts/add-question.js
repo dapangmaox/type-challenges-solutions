@@ -88,8 +88,6 @@ title: ${title}
 ${challengeContent}
 
 ## 解答
-
-## 参考链接
 `.trimStart();
 }
 
